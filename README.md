@@ -1,17 +1,69 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Raj" alt="Typing SVG" />
-   <h3>🚀 Full-Stack Developer | 💻 Aspiring SDE </h3>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Aman%20Raj&fontSize=80&animation=fadeIn" alt="Aman Raj Banner" />
+</p>
 
+<h1 align="center">Hi there, I'm Aman Raj👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aj-amanraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aj-amanraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-amanraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <strong>🚀 Full-Stack Developer | 💻 Problem Solver | 🎓 Lifelong Learner</strong>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aj-amanraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
+I am a software developer who believes that technology is a tool to amplify human potential. I thrive on building systems that are not just functional, but clear and scalable.
+
+* 🛠️ **Current Projects:** Building AI-driven media tools and performance analytics dashboards.
+* 💎 **Philosophy:** I value **clarity**, **ownership**, and the relentless pursuit of **continuous improvement**.
+* 📍 **Based In:** Chandigarh, India.
+
+---
+
+### 💡 Perspective
+
+> **The Reality:** Not every project you build will change the world.  
+> **The Truth:** Every "failed" deployment is a masterclass in what *not* to do. It’s the friction of failure that polishes the diamond of success.
+
+---
+
+### 🚀 Tech Stack
+
+| Domain | Tools |
+| :--- | :--- |
+| **Frontend** | `React.js` `Tailwind CSS` `Redux` |
+| **Backend** | `Node.js` `Express.js` `Hugging Face API` |
+| **Databases** | `MongoDB` `PostgreSQL` |
+| **DevOps** | `Cloudinary` `Git/GitHub` `Docker` |
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aj-amanraj&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-amanraj&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-amanraj&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Achievements
+* 🎓 **B.Tech in Computer Science** (2023 - 2027)
+* 🛠️ Developed an **AI Thumbnail Generator** & **Interview Dashboard**
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+  <a href="mailto:aman2807aj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aman-raj-81a509290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
