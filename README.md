@@ -40,8 +40,8 @@ I am a software developer who believes that technology is a tool to amplify huma
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aj-amanraj&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-amanraj&layout=compact&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aj-amanraj&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aj-amanraj&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
