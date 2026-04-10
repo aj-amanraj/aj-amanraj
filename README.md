@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Aman%20Raj&fontSize=80&animation=fadeIn" alt="Aman Raj Banner" />
+  <img src="github-header-banner.png" alt="Aman Raj Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Aman Raj👋</h1>
